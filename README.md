@@ -1,2 +1,4 @@
 # ARQUITECTURA-DE-COMPUTADORAS
 Christian Gabriel Avila 
+ID 418670
+ISC 3ro grupo C
